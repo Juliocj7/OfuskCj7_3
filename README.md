@@ -24,14 +24,15 @@
 
 
 ## Menú Principal :
-![Screenshot_20210820-131201_Termux](https://user-images.githubusercontent.com/81049859/130302083-068919c1-0c80-4f4c-aaa4-4718a5d9ab88.png)
+![Screenshot_20220530-111932_Termux](https://user-images.githubusercontent.com/81049859/171022907-7c50aa95-2be6-4c78-ba39-517d2bf47700.png)
+
 
 ## Script Ofuscado :
 ![Screenshot_20210715-163103_Termux](https://user-images.githubusercontent.com/81049859/125853635-41ac7a3a-c1dd-4377-b3ff-63d2c068be98.png)
 
 - > ` Nota: El desofuscador se encuentra en mi versión PREMIUM, por lo tanto NO se encuentra activado en este script público.`:sunglasses:
 
-## OfuskCj7_3 :
+## OfuskCj7 3 :
 * Mi **Tercer Ofuscador** de BashScript.
 - > ` Ofuscador: EVAL `
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
