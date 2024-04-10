@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20221227-232704_Termux](https://user-images.githubusercontent.com/81049859/209753235-3cf2d986-6318-42f7-90e6-ab5b0ce9a543.png)
+![1000328322](https://github.com/Juliocj7/OfuskCj7_3/assets/81049859/95d26f18-00f8-4d00-a414-99f55baacea4)
 
 - > ` Nota: El desofuscador se encuentra en mi versión PREMIUM, por lo tanto NO se encuentra activado en este script público.`:sunglasses:
 
