@@ -25,25 +25,23 @@
 ## Menú Principal :
 ![1000328322](https://github.com/Juliocj7/OfuskCj7_3/assets/81049859/95d26f18-00f8-4d00-a414-99f55baacea4)
 
-- > ` Nota: El desofuscador se encuentra en mi versión PREMIUM, por lo tanto NO se encuentra activado en este script público.`:sunglasses:
+> [!IMPORTANT]
+> Nota: El desofuscador se encuentra en mi versión PREMIUM, por lo tanto NO se encuentra activado en este script público :sunglasses:
 
 ## OfuskCj7 3 :
 * Mi **Tercer Ofuscador** de BashScript.
-- > ` Ofuscador: EVAL `
+- Ofuscador: ` EVAL `
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Instalación :
-
-* Para un correcto funcionamiento de la herramienta porfavor instale los [recursos básicos](https://github.com/Juliocj7/UtilsCj7) para termux :
-
-~~~
-https://github.com/Juliocj7/UtilsCj7
-~~~
+> [!NOTE]  
+> Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
 ```bash
-  yes|pkg update && pkg upgrade
+  yes|apt update && apt upgrade
 ```
+
 * ` git clone https://github.com/Juliocj7/OfuskCj7_3 `
 
 * ` cd OfuskCj7_3 `
